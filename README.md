@@ -12,13 +12,6 @@ Visualização de informações com bibliotecas como Matplotlib e Seaborn
 
 Aplicações práticas em ciência de dados e machine learning
 
-# 📂 Estrutura do Repositório
-app.py → Código principal do projeto
-
-requirements.txt → Lista de dependências necessárias
-
-README.md → Documentação do repositório
-
 # 🚀 Tecnologias Utilizadas
 Python 3.x
 
@@ -30,6 +23,7 @@ Jupyter Notebook para experimentação interativa
 
 # 📊 Exemplos de Resultados
 Durante a imersão, foram produzidas análises e gráficos que ajudam a compreender melhor os dados trabalhados.
+![](https://github.com/mari19-coder/irmers-o-dados-python-alura/blob/main/dashboardadosalura.png)
 
 # ✨ Aprendizados Pessoais
 Ao longo da imersão, aprendi:
