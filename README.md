@@ -21,7 +21,7 @@ Matplotlib / Seaborn para visualização
 
 Jupyter Notebook para experimentação interativa
 
-# 📊 Exemplos de Resultados
+# 📊 Resultado
 Durante a imersão, foram produzidas análises e gráficos que ajudam a compreender melhor os dados trabalhados.
 ![](https://github.com/mari19-coder/irmers-o-dados-python-alura/blob/main/dashboardadosalura.png)
 
