@@ -27,3 +27,17 @@ Pandas para manipulação de dados
 Matplotlib / Seaborn para visualização
 
 Jupyter Notebook para experimentação interativa
+
+# 📊 Exemplos de Resultados
+Durante a imersão, foram produzidas análises e gráficos que ajudam a compreender melhor os dados trabalhados.
+
+# ✨ Aprendizados Pessoais
+Ao longo da imersão, aprendi:
+
+A importância de limpar e organizar dados antes de qualquer análise.
+
+Como visualizações bem construídas podem revelar padrões escondidos.
+
+A aplicar modelos simples de machine learning para prever tendências.
+
+A pensar de forma mais analítica e estruturada ao resolver problemas com Python.
